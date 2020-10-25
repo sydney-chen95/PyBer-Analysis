@@ -65,7 +65,7 @@ Next, you will plot a multi-line chart that shows the total weekly fares for eac
 
 Based on the multi-line chart, you can conclude that all three cities have similar trend with a peak in the last week of February. 
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary: 
 
 Based on the results, some disparities among the cities types can be accessibility, racial discrimination, and wealth discrimination. Accessibility can be addressed by having more drivers in rural cities and also improved wait times for passengers before a driver leaves the pick up spot. Racial discrimination can come into play in all city types when drivers choose not to pick up passengers of a certain race. One way to fix this problem is to promote an inclusive ride sharing app for all people. Improving the app interface can also promote better attraction for riders who use the app. Wealth discrimination is another concern to tackle. This occurs when drivers refuse to pick up passengers from certain areas and travel the distance if they deem that the trip will not be worth it. Drivers can also refuse to travel to certain areas of town if they are judgemental of citizens in these areas because they believe the rider will not tip very well. This issue can be addressed by offering a fair wage to drivers.  
 
